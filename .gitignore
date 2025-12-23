@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
